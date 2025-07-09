@@ -1,7 +1,5 @@
 # Open-source-API-Real-Time-Tracking-Service
 
-# Open Source Real-Time Tracking APIs Documentation
-
 ## Table of Contents
 1. [What is an API?](#what-is-an-api)
 2. [Recommended Free Real-Time Tracking APIs](#recommended-apis)
